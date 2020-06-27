@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OBD2)(type Legacy)(uri ${KIPRJMOD}/OBD2.lib)(options "")(descr ""))
+)
